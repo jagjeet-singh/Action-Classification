@@ -6,3 +6,8 @@ This repository contains the code for Action Classification on [HMDB51](http://s
 2. LSTM based network that keeps track of the temporal information as well
 
 
+Requirements -
+
+tensorboard_logger (https://github.com/TeamHG-Memex/tensorboard_logger)
+PyTorch
+TensorFlow
