@@ -8,6 +8,6 @@ This repository contains the code for Action Classification on [HMDB51](http://s
 
 Requirements -
 
-tensorboard_logger (https://github.com/TeamHG-Memex/tensorboard_logger)
-PyTorch
+tensorboard_logger (https://github.com/TeamHG-Memex/tensorboard_logger) \
+PyTorch\
 TensorFlow
